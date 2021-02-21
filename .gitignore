@@ -1,0 +1,11 @@
+.idea
+
+data-classes/.idea/
+data-classes/.gradle/
+data-classes/build/
+data-classes/gradle/
+data-classes/gradlew
+data-classes/gradlew.bat
+data-classes/settings.gradle.kts
+data-classes/gradle.properties
+data-classes/build.gradle.kts
